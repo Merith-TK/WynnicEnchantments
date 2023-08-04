@@ -8,7 +8,3 @@ url = "https://cdn.modrinth.com/data/B3csO4KD/versions/UTQJwXHq/figura-0.1.1%2B1
 hash-format = "sha1"
 hash = "b28b31a2f94fb5be7a14a1e6130b7dcc31a177ee"
 
-[update]
-[update.modrinth]
-mod-id = "B3csO4KD"
-version = "UTQJwXHq"
