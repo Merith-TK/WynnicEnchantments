@@ -1,0 +1,10 @@
+image: gitpod/workspace-go
+
+tasks:
+- command: make update-packwiz
+
+ports:
+  - name: Packwiz
+    description: Packwiz Serve
+    port: 8080
+    onOpen: open-preview

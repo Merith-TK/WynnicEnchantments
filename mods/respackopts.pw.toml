@@ -1,6 +1,7 @@
 name = "Respackopts"
 filename = "respackopts-4.2.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/vqe97GsR/respackopts-4.2.0.jar"

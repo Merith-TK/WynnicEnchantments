@@ -1,6 +1,7 @@
 name = "OptiGUI"
 filename = "optigui-2.1.5.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/x0k8u61W/optigui-2.1.5.jar"

@@ -1,6 +1,7 @@
 name = "Bobby"
 filename = "bobby-4.0.6.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/M08ruV16/versions/HC3s0iom/bobby-4.0.6.jar"

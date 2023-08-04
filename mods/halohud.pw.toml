@@ -1,6 +1,7 @@
 name = "Halo HUD"
 filename = "halohud-2.0+1.19.3.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rbMt0AmF/versions/o8adU8bG/halohud-2.0%2B1.19.3.jar"

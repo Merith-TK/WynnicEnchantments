@@ -1,6 +1,7 @@
 name = "Indium"
 filename = "indium-1.0.19+mc1.19.4.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/oYQsfz9e/indium-1.0.19%2Bmc1.19.4.jar"

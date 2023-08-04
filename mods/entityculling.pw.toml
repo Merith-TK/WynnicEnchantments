@@ -1,6 +1,7 @@
 name = "EntityCulling"
 filename = "entityculling-fabric-1.6.2-mc1.19.4.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/UvJN5Cy4/entityculling-fabric-1.6.2-mc1.19.4.jar"

@@ -1,6 +1,7 @@
 name = "MoreChatHistory"
 filename = "morechathistory-1.19.1-1.1.1.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.19.1-1.1.1/morechathistory-1.19.1-1.1.1.jar"

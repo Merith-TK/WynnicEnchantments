@@ -1,6 +1,7 @@
 name = "Nimble"
 filename = "Nimble-1.19.3-fabric-4.2.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Q5UvqqQd/versions/3PJaGt2i/Nimble-1.19.3-fabric-4.2.0.jar"

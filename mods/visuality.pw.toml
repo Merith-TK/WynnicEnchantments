@@ -1,6 +1,7 @@
 name = "Visuality"
 filename = "visuality-0.7.0.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/8YMUO06d/visuality-0.7.0.jar"

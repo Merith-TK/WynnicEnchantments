@@ -1,6 +1,7 @@
 name = "Smooth Boot (Fabric)"
 filename = "smoothboot-fabric-1.19.4-1.7.0.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/FWumhS4T/versions/I9TkHxLI/smoothboot-fabric-1.19.4-1.7.0.jar"

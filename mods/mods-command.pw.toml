@@ -1,6 +1,7 @@
 name = "Mods Command"
 filename = "mods-command-mc1.19.4-1.1.2.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/PExmWQV8/versions/BxXkq7ZA/mods-command-mc1.19.4-1.1.2.jar"

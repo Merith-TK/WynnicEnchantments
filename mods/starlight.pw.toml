@@ -1,6 +1,7 @@
 name = "Starlight (Fabric)"
 filename = "starlight-1.1.1+fabric.ae22326.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1%2B1.19/starlight-1.1.1%2Bfabric.ae22326.jar"
